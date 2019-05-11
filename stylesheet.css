@@ -1,0 +1,16 @@
+html, body {
+  margin:0;
+  padding:0;
+}
+
+header {
+  width:100%;
+  height:100%;
+  border-bottom:1px solid #5e6063; 
+}
+
+.logo {
+  font-size:1.2remn
+  font-family: monospace;
+}
+
